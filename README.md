@@ -1,5 +1,6 @@
 
-# Additional Documents for the Submission to the CAiSE23 Paper: "Pairing Conceptual Modeling with Augmented and Virtual Reality: A Systematic Review"
+# Additional Documents for the Submission to the CAiSE23 Paper: "Pairing Conceptual Modeling with Augmented and Virtual Reality: A Systematic Review" [![DOI](https://zenodo.org/badge/560897126.svg)](https://zenodo.org/badge/latestdoi/560897126)
+
 
 This repository hosts the additional files for the CAiSE23 paper "Pairing Conceptual Modeling with Augmented and Virtual Reality: A Systematic Review". 
 The repository contains two webpages 
